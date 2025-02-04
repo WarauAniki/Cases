@@ -1,0 +1,27 @@
+# Игнорировать временные файлы Altium
+*.PrjPcbStructure
+*.History
+*.DsnWsp
+*.log
+*.htm
+*.html
+*.ini
+
+# Игнорировать автоматически генерируемые файлы
+*.OutJob
+*.PcbDoc.htm
+*.SchDoc.htm
+
+# Игнорировать папки с кэшем и временными данными
+History/
+Project Logs/
+__Previews/
+
+# Игнорировать файлы настроек пользователя
+*.Rul
+*.DXPWSP
+*.DXPWRK
+
+# Игнорировать резервные копии
+*.bak
+*.Backup
