@@ -1,6 +1,5 @@
 # Cases
 Портфолио
-Вот пример файла `README.md` для вашего проекта:
 
 ```markdown
 # COMPAS-3D-Examples
