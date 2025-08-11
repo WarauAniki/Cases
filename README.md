@@ -33,3 +33,36 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/your-username/COMPAS-3D-examples.git
+Откройте файлы в соответствующих программах:
+
+3D-модели (.a3d, .stl) - в CAD-редакторах (Fusion 360, SolidWorks)
+
+Arduino скетчи (.ino) - в Arduino IDE
+
+Чертежи (.pdf) - в PDF-ридере
+
+Изображения (.png) - в просмотрщике изображений
+
+Для работы с электронными компонентами:
+
+Используйте схемы и спецификации для сборки устройства
+
+Загрузите .ino файлы в микроконтроллер
+
+Скриншоты
+Hand-COMPAS-3D
+https://COMPAS-3D-examples/Hand-COMPAS-3D.png
+
+Wave Transmission
+https://COMPAS-3D-examples/Wave_transmission_with_intermediate_rolling_elements.png
+
+Points Calculation
+https://COMPAS-3D-examples/Points_example.png
+
+Hand Rear View
+https://COMPAS-3D-examples/Hand-rear-view.png
+
+Лицензия
+Этот проект распространяется под лицензией MIT. Подробности смотрите в файле LICENSE.
+
+
